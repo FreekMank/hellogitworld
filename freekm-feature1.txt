@@ -1,3 +1,4 @@
 My first file ...
 CHANGE1
 CHANGE2
+CHANGE
